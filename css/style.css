@@ -7,3 +7,16 @@ body {
   font-family: Metal Mania, "Times New Roman", Times, serif;
   text-align: center;
 }
+
+.about-section {
+  padding: 34px 8px;
+  margin: 26px 0;
+}
+
+.about-section-header {
+  color: #172b4d;
+}
+
+.portfolio-card-section {
+  padding: 36px;
+}
